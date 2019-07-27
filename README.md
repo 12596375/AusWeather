@@ -11,7 +11,7 @@ Aside from the standard packages of Pandas, Numpy, SKlearn and Matplotlib, exter
 Using conda terminal:
 * AWS: conda install -n python3 -c conda-forge missingno
 * jupyter: conda install -c conda-forge missingno
-* AWS: conda install -n python3 -c conda-forge xgboot
+* AWS: conda install -n python3 -c conda-forge xgboost
 * jupyter: conda install -c conda-forge xgboost
   
 ## Whats in the Repo?
@@ -35,3 +35,4 @@ Todo:
 - [ ] Visualise the results with D3JS 
 - [ ] Host the results on Github pages
 - [ ] Finalise a report detailing the process and findings
+- [ ] Code Refactoring
