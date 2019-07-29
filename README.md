@@ -30,7 +30,7 @@ Todo:
 - [x] RFE with those baseline models
 - [x] Create baseline models
 - [x] Determine the Accuracy through Recall and Precision report
-- [ ] 10-fold cross validation to ensure no overfitting
+- [x] 10-fold cross validation to ensure no overfitting
 - [ ] Fine tune the models for better results
 - [ ] Visualise the results with D3JS 
 - [ ] Host the results on Github pages
