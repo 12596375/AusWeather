@@ -33,14 +33,14 @@ Todo:
 - [x] Impute missing values
 - [x] One hot encode the location
 - [x] Feature Engineer from date for Seasons
-- [ ] Use a Standard scalar
+- [x] Use a Standard scalar
 - [x] Choose two baseline models
 - [x] RFE with those baseline models
 - [x] Create baseline models
 - [x] Determine the Accuracy through Recall and Precision report
 - [x] 10-fold cross validation to ensure no overfitting
-- [ ] Fine tune the models for better results
-- [ ] Visualise the results with D3JS 
+- [x] Fine tune the models for better results
+- [ ] Visualise the results with a dashboard made with Dash
 - [ ] Host the results on Github pages
 - [ ] Finalise a report detailing the process and findings
-- [ ] Code Refactoring
+- [x] Code Refactoring
